@@ -1,0 +1,194 @@
+body {
+  width: 100%;
+  font-size: 18px;
+  margin: 5px auto;
+  font-family: 'Bai Jamjuree', sans-serif;
+  text-align: center;
+}
+
+.first-header {
+  margin-top: 5px;
+  width: 100%;
+  height: 250px;
+  background-image: url("bg-header-desktop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo-copy {
+  padding-top: 100px;
+}
+
+h1 {
+  width: 45%;
+  margin: 20px auto;
+  color: hsl(210, 10%, 33%);
+}
+
+.para {
+  text-align: center;
+  width: 45%;
+  margin: auto;
+  color: hsl(201, 11%, 66%);
+}
+
+.botton {
+  padding: 10px 20px;
+  margin: 20px 50px 30px;
+}
+
+.botton-green {
+  display: inline-block;
+  border-radius: 50px;
+  background-color: hsl(171, 66%, 44%);
+  border-bottom-width: 8px;
+  padding: 10px 15px;
+  margin: 10px;
+  border: solid 0;
+  font-size: 15px;
+  font-weight: normal;
+  cursor: pointer;
+  color: white;
+}
+
+.botton-blue {
+  display: inline-block;
+  border-radius: 50px;
+  background-color: hsl(233, 100%, 69%);
+  border-bottom-width: 8px;
+  padding: 10px 15px;
+  font-weight: normal;
+  margin: 10px;
+  border: solid 0;
+  font-size: 15px;
+  cursor: pointer;
+  color: white;
+}
+
+.btn-hover:hover {
+  box-shadow: 0 2px hsl(210, 10%, 33%);
+}
+
+.computer {
+  float: left;
+  width: 50%;
+  padding-right: 80px;
+  margin-bottom: 30px;
+}
+
+.computer-discrip {
+  text-align: left;
+  margin: 50px 20px;
+  padding: 50px 20px;
+}
+
+h2 {
+  margin: 30px auto 10px;
+  width: 70%;
+  color: hsl(210, 10%, 33%);
+}
+
+.com-para {
+  width: 70%;
+  margin: auto;
+  color: hsl(201, 11%, 66%);
+}
+
+.mobile-section {
+  margin-top: auto;
+  padding-top: 20px;
+  clear: left;
+}
+
+.mob-img {
+  width: 400px;
+  height: auto;
+  padding-top: 50px;
+  margin: 50px auto;
+}
+
+.black-section {
+  padding-top: 20px;
+  width: 30%;
+  float: left;
+}
+
+.block-section {
+  display: flex;
+  margin-right: 20px;
+}
+
+.images {
+  margin: 50px 50px 50px;
+  padding-right: 50px;
+}
+
+.clip-section {
+  margin-top: 100px;
+}
+
+.last-header {
+  background-color: #dbdbdb;
+  height: 200px;
+}
+
+.logo {
+  float: left;
+  padding: 50px 0 50px 100px;
+  margin: 30px 0 30px 100px;
+  height: auto;
+  width: 50px;
+}
+
+.row {
+  display: flex;
+  margin: 50px 0 0 200px;
+  padding: 50px 0 0 200px;
+}
+
+.row-cl {
+  padding-right: 100px;
+  float: right;
+  color: hsl(210, 10%, 33%);
+}
+
+.contact {
+  clear: left;
+}
+
+.row-cl-two {
+  padding-right: 50px;
+  margin-top: 0;
+  color: hsl(210, 10%, 33%);
+}
+
+.row-contact {
+  margin: 0 200px;
+  padding: 0 200px;
+}
+
+.contact{
+  text-decoration: none;
+}
+
+.contact:hover{
+  color:hsl(201, 11%, 66%);
+}
+
+.facebook{
+  position: absolute;
+  right: 20px;
+}
+
+.face{
+  margin-right: 20px;
+}
+
+.face:hover{
+  color: hsl(201, 11%, 66%);
+}
+
+a{
+  text-decoration: none;
+  color:hsl(210, 10%, 33%);
+}
